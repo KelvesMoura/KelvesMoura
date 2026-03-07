@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Kelves Moura
+# 👋 Hello, I'm Kelves Moura
 
 **Web Developer | Automation & Data Analysis**
 
