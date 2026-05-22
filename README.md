@@ -1,23 +1,20 @@
 # 👋 Hello, I'm Kelves Moura
 
-**Web Developer | Automation & Data Analysis**
-
-Electrical Engineer turned Web Developer focused on automation and data-driven solutions.
-
-I enjoy building web applications connected to relational databases, creating automations, APIs, and dashboards that help businesses make better decisions.
-
-My work combines **development, automation, and analytics** to deliver practical solutions for real-world problems.
-
+**Web Developer | Automation & Integrations Specialist**
+ 
+Electrical Engineer with 10+ years in industrial environments (automotive, chemical, food) —
+now building web apps, automations and integrations that solve real business problems.
+ 
+> I don't just code solutions. I understand the problem first.
+ 
 ---
 
 # 🚀 Currently Exploring
 
 - Automation workflows with **n8n**
-- Backend integrations and **REST APIs**
-- **JavaScript** and **Node.js** for backend development
-- **Python** for data and automation
-- Data analysis and dashboards with **Power BI**
-- Building scalable apps with **Supabase**
+- WhatsApp automation flows with **n8n** + Baileys + Chatwoot
+- REST API integrations and backend services with **Node.js**
+- Web applications and landing pages with **JavaScript**, HTML/CSS and TailwindCSS
 
 ---
 
@@ -29,6 +26,8 @@ My work combines **development, automation, and analytics** to deliver practical
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🗄 Databases
 
@@ -39,15 +38,15 @@ My work combines **development, automation, and analytics** to deliver practical
 ### ⚙ Automation
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
 
-### 📊 Data
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🐳 DevOps
-
+### 🐳 Infrastructure & DevOps
+ 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL%20Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ### 🌿 Version Control
 
@@ -57,12 +56,23 @@ My work combines **development, automation, and analytics** to deliver practical
 
 ---
 
-# ⚙ What I Like to Build
+# ⚙ What I Deliver
 
-- Workflow automations for business processes
-- API integrations between platforms
-- Data pipelines and dashboards
-- Web applications connected to relational databases
+- 🌐 Institutional websites and landing pages — HTML/CSS/JS and WordPress/WooCommerce
+- 🤖 WhatsApp automation with CRM integration — Baileys + Chatwoot + n8n
+- 🔌 Business process automations and API integrations
+- 🗄️ Web applications connected to relational databases
+- 🖥️ VPS infrastructure setup and management — Docker + EasyPanel + Portainer
+
+---
+
+# 🧠 Background That Makes the Difference
+ 
+10+ years working in industrial companies managing KPIs, maintenance indicators
+and operational dashboards in sectors like automotive, chemical and food.
+ 
+This means I understand your business problem before writing a single line of code —
+and I build solutions that actually fit how real operations work.
 
 ---
 
@@ -77,18 +87,6 @@ My work combines **development, automation, and analytics** to deliver practical
 
 ---
 
-# 🧠 Interests
-
-I’m interested in projects involving:
-
-- Systems integration
-- Workflow automation
-- Data analysis and dashboards
-- Backend development
-- AI-driven workflows
-
----
-
 # 📫 Connect with me
 
 <div>
@@ -96,9 +94,9 @@ I’m interested in projects involving:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:contato@kelvesmoura.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  </div>
+</div>
 
 ---
 
