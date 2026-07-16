@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Kelves Moura
 
 **Web Developer | Automation & Integrations Specialist**
- 
+
 Electrical Engineer with 10+ years in industrial environments (automotive, chemical, food) —
 now building web apps, automations and integrations that solve real business problems.
- 
+
 > I don't just code solutions. I understand the problem first.
- 
+
 ---
 
 # 🚀 Currently Exploring
@@ -20,20 +20,25 @@ now building web apps, automations and integrations that solve real business pro
 
 # 🧰 Tech Stack
 
-### 💻 Development
+### 💻 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🧩 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ff4438?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0aa34b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚙ Automation
 
@@ -42,9 +47,10 @@ now building web apps, automations and integrations that solve real business pro
 ![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
 
 ### 🐳 Infrastructure & DevOps
- 
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-d81a2f?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL%20Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
@@ -67,10 +73,10 @@ now building web apps, automations and integrations that solve real business pro
 ---
 
 # 🧠 Background That Makes the Difference
- 
+
 10+ years working in industrial companies managing KPIs, maintenance indicators
 and operational dashboards in sectors like automotive, chemical and food.
- 
+
 This means I understand your business problem before writing a single line of code —
 and I build solutions that actually fit how real operations work.
 
